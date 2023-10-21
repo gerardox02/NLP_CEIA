@@ -1,5 +1,5 @@
 
-Este repositorio contiene los desafíos resueltos para la asignatura de NLP de la Carrera de Especialización en Inteligencia Artificial (CEIA) de la Universidad de Buenos Aires.
+Este repositorio contiene los desafíos asignados en el curso de NLP de la Carrera de Especialización en Inteligencia Artificial (CEIA) ofrecida por la Universidad de Buenos Aires (UBA).
 
 ## Contenido
 
