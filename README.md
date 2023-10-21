@@ -3,7 +3,7 @@ Este repositorio contiene los desafíos asignados en el curso de NLP de la Carre
 
 ## Contenido
 
-### [Desafío 1](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%201)
+### [Desafío 1](https://cdn.coveo.com/images/w_1200,h_700,c_scale/v1697661595/blogprod/WordEmbeddings_106325d5f6/WordEmbeddings_106325d5f6.png?_i=AA)
 <img src="https://github.com/tmonreal/Natural_Language_Processing/assets/84754265/a7d385cb-5dad-48a5-a67c-e0bc293df676" width="700">
 
 - Notebook introductorio a NLP, en el cual se realiza la vectorización de documentos empleando NumPy.
