@@ -30,6 +30,6 @@ Este repositorio contiene los desafíos asignados en el curso de NLP de la Carre
 - Creación de una red neuronal profunda (DNN) diseñada para estimar la valoración (número de estrellas) de un cliente basándose en su opinión acerca de la ropa adquirida. Esta red incorpora una capa de incrustación (Embedding) de Keras, junto con capas LSTM bidireccionales, capas compactas y capas de abandono (dropout).
 
 ### [Desafío 6](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%206)
-<img width="691" alt="qaBot" src="https://github.com/tmonreal/Natural_Language_Processing/assets/84754265/d009dfd2-1c66-4ac3-9b3d-b41fb76df80e">
+<img width="691" alt="qaBot" src="https://drive.google.com/uc?export=view&id=1EbdQHdh1jV1uS3dPKdsPtC3KqWVFyHZ8">
 
-- Creación de un bot capaz de responder a preguntas del usuario (Q&A) empleando datos de conversaciones en inglés, utilizando el modelo fasttext.
+- Desarrollo de un robot que puede atender consultas del usuario (Q&A) basándose en diálogos en inglés, haciendo uso del modelo fasttext.
