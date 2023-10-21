@@ -9,7 +9,7 @@ Este repositorio contiene los desafíos asignados en el curso de NLP de la Carre
 - Notebook introductorio a NLP, en el cual se realiza la vectorización de documentos empleando NumPy.
 
 ### [Desafío 2](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%202)
-<img width="800" alt="w2vlogo" src="https://drive.google.com/uc?export=view&id=1YpDFbKbdz-pdTRBM58YfFxkhdA3yr2ZJ">
+<img width="700" alt="w2vlogo" src="https://drive.google.com/uc?export=view&id=1YpDFbKbdz-pdTRBM58YfFxkhdA3yr2ZJ">
 
 - Desarrollo de un bot simple para hacer consultas sobre el restaurante peruano Central usando NLTK y TF-IDF.
 
