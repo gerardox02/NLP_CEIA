@@ -25,11 +25,11 @@ Este repositorio contiene los desafíos asignados en el curso de NLP de la Carre
 
 
 ### [Desafío 5](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%205)
-<img width="706" alt="sentiment_analysis" src="https://github.com/tmonreal/Natural_Language_Processing/assets/84754265/e0e76356-b6aa-48ba-8465-364136baaf7a">
+<img width="706" alt="sentiment_analysis" src="https://drive.google.com/uc?export=view&id=1aKcEeLtKlvlvCsfrfbbBE0jhUODYhq5q">
 
-- Desarrollo de una DNN que es capaz de predecir la crítica (cantidad de estrellas) de un cliente a partir de su reseña sobre la vestimenta comprada. Esta red utiliza una capa de Embedding de Keras en combinación con capas LSTM bidireccionales, capas densas y capas de dropout. Además, se ha implementado otra red que emplea una capa de Embedding FastText.
+- Creación de una red neuronal profunda (DNN) diseñada para estimar la valoración (número de estrellas) de un cliente basándose en su opinión acerca de la ropa adquirida. Esta red incorpora una capa de incrustación (Embedding) de Keras, junto con capas LSTM bidireccionales, capas compactas y capas de abandono (dropout).
 
 ### [Desafío 6](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%206)
 <img width="691" alt="qaBot" src="https://github.com/tmonreal/Natural_Language_Processing/assets/84754265/d009dfd2-1c66-4ac3-9b3d-b41fb76df80e">
 
-- Creación de un bot capaz de responder a preguntas del usuario (Q&A) empleando datos de conversaciones en inglés, utilizando un modelo basado en Seq2Seq con encoder-decoder.
+- Creación de un bot capaz de responder a preguntas del usuario (Q&A) empleando datos de conversaciones en inglés, utilizando el modelo fasttext.
