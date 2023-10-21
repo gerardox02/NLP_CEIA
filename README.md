@@ -19,7 +19,7 @@ Este repositorio contiene los desafíos asignados en el curso de NLP de la Carre
 - Creación de vectores con Gensim basados en los libros de Harry Potter, explicando similitudes en el espacio de embeddings.
 
 ### [Desafío 4](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%204)
-<img width="706" alt="nextword" src="https://github.com/tmonreal/Natural_Language_Processing/assets/84754265/3247653f-dd45-4374-86b1-a7e5d1c87680">
+<img width="706" alt="nextword" src="https://drive.google.com/uc?export=view&id=1kRjafN0rQSRrLopKdUZxNOzQSt8tvBBl">
 
 - Creación de vectores con Gensim basados en los libros de Harry Potter, explicando similitudes en el espacio de embeddings.
 
