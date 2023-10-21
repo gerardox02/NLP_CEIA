@@ -21,7 +21,7 @@ Este repositorio contiene los desafíos asignados en el curso de NLP de la Carre
 ### [Desafío 4](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%204)
 <img width="706" alt="nextword" src="https://github.com/tmonreal/Natural_Language_Processing/assets/84754265/3247653f-dd45-4374-86b1-a7e5d1c87680">
 
-- Creación de embeddings de palabras basado en el contexto de anatomía y fisiología humana. Este método utiliza la capa de Embedding de Keras en conjunto con una LSTM Bidireccional y una capa densa para predecir la próxima palabra más probable en el contexto dado.
+- Creación de vectores con Gensim basados en los libros de Harry Potter, explicando similitudes en el espacio de embeddings.
 
 
 ### [Desafío 5](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%205)
