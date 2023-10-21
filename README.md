@@ -21,7 +21,7 @@ Este repositorio contiene los desafíos asignados en el curso de NLP de la Carre
 ### [Desafío 4](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%204)
 <img width="706" alt="nextword" src="https://drive.google.com/uc?export=view&id=1kRjafN0rQSRrLopKdUZxNOzQSt8tvBBl">
 
-- Creación de vectores con Gensim basados en los libros de Harry Potter, explicando similitudes en el espacio de embeddings.
+- Creación de un modelo de predicción de próxima palabra, usando un dataset propio de canciones de Andrés Calamaro.
 
 
 ### [Desafío 5](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%205)
