@@ -32,4 +32,4 @@ Este repositorio contiene los desafíos asignados en el curso de NLP de la Carre
 ### [Desafío 6](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%206)
 <img width="691" alt="qaBot" src="https://drive.google.com/uc?export=view&id=1EbdQHdh1jV1uS3dPKdsPtC3KqWVFyHZ8">
 
-- Desarrollo de un robot que puede atender consultas del usuario (Q&A) basándose en diálogos en inglés, haciendo uso del modelo fasttext.
+- Desarrollo de un bot que puede atender consultas del usuario (Q&A) basándose en diálogos en inglés, haciendo uso del modelo fasttext.
