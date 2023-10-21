@@ -14,7 +14,7 @@ Este repositorio contiene los desafíos asignados en el curso de NLP de la Carre
 - Desarrollo de un bot simple para hacer consultas sobre el restaurante peruano Central usando NLTK y TF-IDF.
 
 ### [Desafío 3](https://github.com/gerarvilca02/NLP_CEIA/tree/main/Desaf%C3%ADo%203)
-<img src=""https://drive.google.com/uc?export=view&id=1T_bfWZTro7ii_yJBGIiSbQrwGHg8OWMw" width="700">
+<img src="https://drive.google.com/uc?export=view&id=1T_bfWZTro7ii_yJBGIiSbQrwGHg8OWMw" width="700">
 
 - Creación de embeddings de palabras basado en el contexto de anatomía y fisiología humana empleando Keras, scikit-learn, Gensim y Plotly.
 
